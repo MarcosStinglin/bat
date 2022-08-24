@@ -6,7 +6,7 @@ echo.
 echo Digite 1 para iniciar navegador;
 echo Digite 2 para saber a versao do programa;
 echo Digite 3 para receber ajuda sobre os comandos.
-echo Digite 4 para criar um arquivo de texto
+echo Digite 4 para criar um arquivo de texto.
 echo.
 
 set /p num= "Digite um valor entre as opcoes acima: "
